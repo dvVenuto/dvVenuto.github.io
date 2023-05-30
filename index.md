@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="434.jpg">
+<img class="profile-picture" src="IMG_8052.jpg">
 
 David Venuto is a machine learning researcher and PhD student at Mila and McGill University under the supervision of Doina Precup.  
 
